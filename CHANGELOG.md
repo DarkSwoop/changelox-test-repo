@@ -6,8 +6,15 @@ All notable changes to this project will be documented in this file.
 
 #### added
 
+-   another test
+
 -   udn strom
     perform a second pr test
+
+#### changed
+
+-   fourth
+    let&#39;s test the automatic changelog.md generation
 
 
 
