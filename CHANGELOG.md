@@ -6,6 +6,9 @@ All notable changes to this project will be documented in this file.
 
 #### added
 
+-   wichtige änderung
+    wichtige änderung oder so
+
 -   another test
 
 -   udn strom
